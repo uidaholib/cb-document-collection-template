@@ -1,0 +1,1 @@
+# cb-document-collection-template
